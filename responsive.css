@@ -368,7 +368,7 @@
 		.shortcodes .button.big { margin-right:2px; }
 		
 		/*----*****---- << Header >> ----*****----*/		
-		#logo { width:100%; text-align:center; margin:20px 0px 10px; }
+		#logo { width:100%; text-align:center; margin: 59px 0px 10px; }
 		#logo img { max-width:300px; }
 		
 		#top-menu { height:auto; }
@@ -472,7 +472,7 @@
 		/*----*****---- << Container >> ----*****----*/
 		.container { width:100%; margin:0 auto; }
 		.slider-container { width:260px; margin:0 auto; }
-		.main-container { width:250px; margin:0 auto; }	
+		.main-container { width:100%; margin:0 auto; }	
 		
 		.slider-wrapper { width:100%; height:auto; }
 		
@@ -551,7 +551,7 @@
 		.shortcodes .button.medium { margin-right:3px; }
 		
 		/*----*****---- << Header >> ----*****----*/		
-		#logo { width:100%; text-align:center; margin:20px 0px 10px; }
+		#logo { width:100%; text-align:center; margin: 58px 0px 10px; }
 		#logo img { max-width:240px; }
 		
 		#top-menu { height:auto; background:none; }
@@ -614,9 +614,9 @@
 		.no-margin.full-width ul.slideshow li img { width:240px; height:221px !important; }	
 		.no-margin.full-width-with-sidebar { width:240px; }
 		
-		.gallery-container .no-margin.one-fourth { width:241px; margin-bottom:0px; }
+		.gallery-container .no-margin.one-fourth { width:100%; margin-bottom:0px; }
 		.with-sidebar .no-margin.one-fourth { width:241px; }
-		.one-fourth .gallery { width:240px; }
+		.one-fourth .gallery { width:100%; }
 		.with-sidebar .one-fourth .gallery { width:240px; }
 		.one-fourth .gallery-image, .one-fourth .gallery-image img, .no-margin.one-fourth ul.slideshow li img { width:240px; height:194px; }
 		.with-sidebar .one-fourth .gallery-image, .with-sidebar .one-fourth .gallery-image img, .with-sidebar .no-margin.one-fourth ul.slideshow li img { width:240px; height:194px; }
