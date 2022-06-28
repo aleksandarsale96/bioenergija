@@ -1187,6 +1187,7 @@ ul.menu li ul li.current_page_item {
   background: linear-gradient(to right, #5f55f1 0, #766db6 100%);
   /* background-image: url(images/purple.jpg); */
   background-repeat: repeat;
+  
 }
 
 .slider-wrapper {
