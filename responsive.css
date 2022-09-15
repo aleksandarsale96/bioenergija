@@ -314,6 +314,21 @@
     /* Note: Design for a width of 480px */
 
     @media only screen and (min-width: 480px) and (max-width: 767px) {
+		#sorting-container a {
+			background: #ffc8ef;
+			color: #3a3a3a;
+			font-size: 16px;
+			padding: 11px 30px;
+			float: left;
+			display: block;
+			-webkit-transition: all 400ms ease-in-out;
+			-moz-transition: all 400ms ease-in-out;
+			-o-transition: all 400ms ease-in-out;
+			transition: all 400ms ease-in-out;
+			border-radius: 7px;
+			margin-right: 10px;
+    		margin-bottom: 10px;
+		}
 		
 		#top-menu ul.menu { display:none; }
 		.responsive-nav { display:block; }
@@ -321,7 +336,7 @@
 		/*----*****---- << Container >> ----*****----*/
 		.container { width:410px; margin:0 auto; }
 		.slider-container { width:410px; margin:0 auto; }
-		.slider-wrapper { width:410px; height:190px; }
+		.slider-wrapper { width:410px; height:284px; }
 		.main-container { width:410px; margin:0 auto; }	
 		
 		/*----*****---- << Columns >> ----*****----*/
